@@ -1,6 +1,6 @@
 {
  "version": 1,
- "savedAt": "2026-11-10T01:06:58.503Z",
+ "savedAt": "2026-11-10T05:21:55.273Z",
  "meta": {
   "kicker": "Personal Toolkit",
   "kickerUrl": "https://github.com/shelleytaiwan/my-tools-entry",
@@ -101,8 +101,8 @@
        "name": "點珍珠奶茶"
       },
       {
-       "name": "點早餐",
-       "repo": "order-breakfast"
+       "repo": "order-breakfast",
+       "name": "點早餐"
       },
       {
        "repo": "greeting",
@@ -199,6 +199,10 @@
       {
        "repo": "shadowing",
        "name": "短文跟讀"
+      },
+      {
+       "name": "課堂用語",
+       "repo": "classroom language"
       }
      ]
     }
