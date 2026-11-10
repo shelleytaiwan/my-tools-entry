@@ -1,6 +1,6 @@
 {
  "version": 1,
- "savedAt": "2026-11-10T05:21:55.273Z",
+ "savedAt": "2026-11-10T06:00:02.918Z",
  "meta": {
   "kicker": "Personal Toolkit",
   "kickerUrl": "https://github.com/shelleytaiwan/my-tools-entry",
@@ -201,8 +201,12 @@
        "name": "短文跟讀"
       },
       {
-       "name": "課堂用語",
-       "repo": "classroom language"
+       "repo": "classroom language",
+       "name": "課堂用語"
+      },
+      {
+       "name": "派遣前台灣華語研修2027",
+       "repo": "review-for-NP"
       }
      ]
     }
