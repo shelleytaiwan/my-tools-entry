@@ -1,6 +1,6 @@
 {
  "version": 1,
- "savedAt": "2026-11-10T06:00:02.918Z",
+ "savedAt": "2026-11-11T02:42:53.442Z",
  "meta": {
   "kicker": "Personal Toolkit",
   "kickerUrl": "https://github.com/shelleytaiwan/my-tools-entry",
@@ -205,8 +205,16 @@
        "name": "課堂用語"
       },
       {
-       "name": "派遣前台灣華語研修2027",
-       "repo": "review-for-NP"
+       "repo": "quick-qa",
+       "name": "快速問答"
+      },
+      {
+       "name": "詞語復習",
+       "repo": "vocab-marquee"
+      },
+      {
+       "repo": "review-for-NP",
+       "name": "派遣前台灣華語研修2027"
       }
      ]
     }
