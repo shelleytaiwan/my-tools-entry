@@ -1,6 +1,6 @@
 {
  "version": 1,
- "savedAt": "2026-11-11T02:42:53.442Z",
+ "savedAt": "2026-11-12T12:57:34.330Z",
  "meta": {
   "kicker": "Personal Toolkit",
   "kickerUrl": "https://github.com/shelleytaiwan/my-tools-entry",
@@ -152,7 +152,7 @@
       },
       {
        "repo": "pinyin-listening",
-       "name": "聽拼音選擇題"
+       "name": "拼音聽力"
       },
       {
        "repo": "Let-s-learn-Mandarin",
@@ -189,14 +189,6 @@
      "name": "派遣前台灣華語研修",
      "items": [
       {
-       "repo": "rewriting-review",
-       "name": "句子重組總複習"
-      },
-      {
-       "repo": "chinese-review",
-       "name": "研修復習與預習"
-      },
-      {
        "repo": "shadowing",
        "name": "短文跟讀"
       },
@@ -209,12 +201,25 @@
        "name": "快速問答"
       },
       {
-       "name": "詞語復習",
-       "repo": "vocab-marquee"
+       "repo": "vocab-marquee",
+       "name": "詞語復習"
       },
       {
        "repo": "review-for-NP",
        "name": "派遣前台灣華語研修2027"
+      }
+     ]
+    },
+    {
+     "name": "派遣前華語研修舊版",
+     "items": [
+      {
+       "repo": "chinese-review",
+       "name": "研修復習與預習2026"
+      },
+      {
+       "repo": "rewriting-review",
+       "name": "句子重組總複習"
       }
      ]
     }
