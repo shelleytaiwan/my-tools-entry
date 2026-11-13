@@ -1,6 +1,6 @@
 {
  "version": 1,
- "savedAt": "2026-11-12T12:57:34.330Z",
+ "savedAt": "2026-11-13T01:18:17.821Z",
  "meta": {
   "kicker": "Personal Toolkit",
   "kickerUrl": "https://github.com/shelleytaiwan/my-tools-entry",
@@ -24,6 +24,10 @@
       {
        "repo": "who_is_the_culprit",
        "name": "誰是犯人"
+      },
+      {
+       "name": "抽詞卡",
+       "repo": "pick-word-card"
       },
       {
        "repo": "wheel",
