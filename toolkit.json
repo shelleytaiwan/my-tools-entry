@@ -1,6 +1,6 @@
 {
  "version": 1,
- "savedAt": "2026-11-13T01:18:17.821Z",
+ "savedAt": "2026-11-13T14:29:24.366Z",
  "meta": {
   "kicker": "Personal Toolkit",
   "kickerUrl": "https://github.com/shelleytaiwan/my-tools-entry",
@@ -26,8 +26,8 @@
        "name": "誰是犯人"
       },
       {
-       "name": "抽詞卡",
-       "repo": "pick-word-card"
+       "repo": "pick-word-card",
+       "name": "抽詞卡"
       },
       {
        "repo": "wheel",
@@ -101,12 +101,16 @@
      "name": "情境任務對話",
      "items": [
       {
+       "name": "我的手帳",
+       "repo": "my-schedule"
+      },
+      {
        "repo": "milktea",
        "name": "點珍珠奶茶"
       },
       {
        "repo": "order-breakfast",
-       "name": "點早餐"
+       "name": "點中西式早餐"
       },
       {
        "repo": "greeting",
@@ -159,12 +163,12 @@
        "name": "拼音聽力"
       },
       {
-       "repo": "Let-s-learn-Mandarin",
-       "name": "來學華語跟讀"
-      },
-      {
        "repo": "numbers",
        "name": "數字聽寫"
+      },
+      {
+       "repo": "Let-s-learn-Mandarin",
+       "name": "來學華語跟讀"
       },
       {
        "repo": "AI-Pronunciation-Assessment",
